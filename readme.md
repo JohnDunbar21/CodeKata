@@ -7,3 +7,4 @@
 #### Location = ONE Tech Hub, Schoolhill, Aberdeen AB10, UK.
 #### Time = 6pm - 8:30pm (GMT).
 #### Online or In-Person = In-Person.
+#### Language = Python.
