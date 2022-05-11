@@ -1,0 +1,1 @@
+# Challenge 1 for the Code Kata.
