@@ -4,6 +4,6 @@
 ## The purpose of a Code Kata is to improve the efficiency of code writing in software development by taking situational scenarios and writing code to fulfill the needs of said scenario.
 
 ### Event 1: Aberdeen Python User Group (11 May 2022)
-## Location = ONE Tech Hub, Schoolhill, Aberdeen AB10, UK.
-## Time = 6pm - 8:30pm (GMT).
-## Online or In-Person = In-Person.
+#### Location = ONE Tech Hub, Schoolhill, Aberdeen AB10, UK.
+#### Time = 6pm - 8:30pm (GMT).
+#### Online or In-Person = In-Person.
